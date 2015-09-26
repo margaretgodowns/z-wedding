@@ -6322,100 +6322,91 @@ th.hide-for-touch {
 @media not print {
   .show-for-print {
     display: none !important; } }
-@font-face {
-  font-family: 'Baskerville';
-  src: url("Baskerville.eot");
-  src: url("Baskerville.eot?#iefix") format("embedded-opentype"), url("Baskerville.woff2") format("woff2"), url("Baskerville.woff") format("woff"), url("Baskerville.ttf") format("truetype"), url("Baskerville.svg#Baskerville") format("svg");
-  font-weight: normal;
-  font-style: normal; }
-@font-face {
-  font-family: 'Times-Roman';
-  src: url("Times-Roman.eot");
-  src: url("Times-Roman.eot?#iefix") format("embedded-opentype"), url("Times-Roman.woff2") format("woff2"), url("Times-Roman.woff") format("woff"), url("Times-Roman.ttf") format("truetype"), url("Times-Roman.svg#Times-Roman") format("svg");
-  font-weight: normal;
-  font-style: normal; }
-@font-face {
-  font-family: 'MinionPro-Regular';
-  src: url("MinionPro-Regular.ttf") format("truetype");
-  font-weight: normal;
-  font-style: normal; }
-@font-face {
-  font-family: 'TrajanPro-Regular';
-  src: url("TrajanPro-Regular.ttf") format("truetype");
-  font-weight: normal;
-  font-style: normal; }
-@font-face {
-  font-family: 'Compendium';
-  src: url("Compendium.ttf") format("truetype");
-  font-weight: normal;
-  font-style: normal; }
-@font-face {
-  font-family: 'BurguesScript';
-  src: url("BurguesScript.ttf") format("truetype");
-  font-weight: normal;
-  font-style: normal; }
-@font-face {
-  font-family: 'FairfieldLH-Medium';
-  src: url("FairfieldLH-Medium");
-  font-weight: normal;
-  font-style: normal; }
-@font-face {
-  font-family: 'Garamond';
-  src: url("Garamond");
-  font-weight: normal;
-  font-style: normal; }
-@font-face {
-  font-family: 'NewBaslta';
-  src: url("NewBaslta");
-  font-weight: normal;
-  font-style: normal; }
-@font-face {
-  font-family: 'Perpe';
-  src: url("Perpe");
-  font-weight: normal;
-  font-style: normal; }
-@font-face {
-  font-family: 'Perpelta';
-  src: url("Perpelta");
-  font-weight: normal;
-  font-style: normal; }
-@font-face {
-  font-family: 'TorinModRom';
-  src: url("TorinModRom");
-  font-weight: normal;
-  font-style: normal; }
-.torin {
-  font-family: "TorinModRom"; }
+.home-left-col img {
+  margin-left: 50px; }
 
-.perpelta {
-  font-family: "Perpelta"; }
+.home-right-col {
+  text-align: center; }
+  .home-right-col main {
+    width: 90%;
+    margin-left: 25px; }
+  .home-right-col h4 {
+    font-family: "Baskerville";
+    font-size: 18px;
+    font-style: italic;
+    line-height: 1;
+    color: #053F99; }
+  .home-right-col h1 {
+    font-family: "TorinoModern-Roman";
+    text-transform: uppercase;
+    font-size: 50px;
+    line-height: 1;
+    color: #BA9958; }
+    .home-right-col h1 span {
+      display: block;
+      font-family: "Baskerville";
+      font-style: italic;
+      font-size: 18px;
+      text-transform: lowercase;
+      margin-top: -10px; }
+  .home-right-col h3 {
+    font-family: "Baskerville";
+    font-size: 15px;
+    text-transform: uppercase;
+    color: #BA9958; }
+  .home-right-col h2 {
+    font-family: "Compendium";
+    font-size: 23px;
+    color: #053F99; }
+  .home-right-col p {
+    font-family: "Baskerville";
+    font-size: 18px;
+    font-style: italic;
+    color: #BA9958;
+    line-height: 1; }
 
-.perpe {
-  font-family: "Perpe"; }
+body {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  background-image: url(../images/background.jpg); }
 
-.nb {
-  font-family: "NewBaslta"; }
+.bottom-border {
+  position: relative; }
+  .bottom-border:after {
+    content: '';
+    margin-left: 75px;
+    width: 85%;
+    height: 1px;
+    background-color: #BA9958;
+    position: absolute;
+    bottom: -15px; }
 
-.garamond {
-  font-family: "Garamond"; }
+nav {
+  text-align: center;
+  margin-top: 10px; }
+  nav a {
+    text-decoration: none;
+    color: #BA9958;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-family: "TorinoModern-Roman"; }
+    nav a:hover {
+      color: #053F99; }
 
-.fairfield {
-  font-family: "FairfieldLH-Medium"; }
-
-.burgues {
-  font-family: "BurguesScript"; }
-
-.compendium {
-  font-family: "Compendium"; }
-
-.trajan {
-  font-family: "TrajanPro-Regular"; }
-
-.minion {
-  font-family: "MinionPro-Regular"; }
-
-.times {
-  font-family: "Times-Roman"; }
-
-.baskerville {
-  font-family: "Baskerville"; }
+.main-content {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  width: 75%;
+  background-color: white;
+  border: 7px double #BA9958;
+  outline: 10px solid white; }
+  .main-content ul {
+    list-style-type: none;
+    margin: auto; }
+    .main-content ul li {
+      display: inline-block;
+      padding: 4px 8px; }
+  .main-content .main-row {
+    margin-top: 50px; }

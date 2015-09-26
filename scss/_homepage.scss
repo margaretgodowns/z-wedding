@@ -1,0 +1,62 @@
+.home-left-col {
+	
+	img {
+		margin-left: 50px;
+	}
+	
+}
+
+.home-right-col {
+	text-align: center;
+	
+	main {
+		width: 90%;
+		margin-left: 25px;
+	}
+	
+	h4 {
+		font-family: "Baskerville";
+		font-size: 18px;	
+		font-style: italic;
+		line-height: 1;
+		color: #053F99;
+	}
+	
+	h1 {
+		font-family: "TorinoModern-Roman";
+		text-transform: uppercase;
+		font-size: 50px;
+		line-height: 1;
+		color: #BA9958;
+		
+		span {
+			display: block;
+			font-family: "Baskerville";
+			font-style: italic;
+			font-size: 18px;
+			text-transform: lowercase;
+			margin-top: -10px;
+		}
+	}
+	
+	h3 {
+		font-family: "Baskerville";
+		font-size: 15px;
+		text-transform: uppercase;
+		color: #BA9958;
+	}
+	
+	h2 {
+		font-family: "Compendium";
+		font-size: 23px;
+		color: #053F99;
+	}
+	
+	p {
+		font-family: "Baskerville";
+		font-size: 18px;
+		font-style: italic;
+		color: #BA9958;
+		line-height: 1;
+	}
+}
