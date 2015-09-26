@@ -1,0 +1,67 @@
+.itinerary-left-col {
+	
+	img {
+		max-width: 100%;
+		margin-left: 62px;
+		@media #{$small-only} { 
+			margin-left: inherit;
+		}
+	}
+}
+
+.itinerary-right-col {
+	text-align: center;
+	width: 60%;
+	margin-right: 25px;
+	
+	#dinner-dancing {
+	float: left;
+	}
+	
+	@media #{$small-only} { 
+			margin-right: inherit;
+		}
+	
+	.line-right {
+		border-right: 1px solid #BA9958;
+		line-height: 1;
+	}
+	
+	h2 {
+		font-family: "Compendium";
+		font-size: 24px;
+		line-height: 1;
+	}
+	
+	h3 {
+		font-family: "TorinoModern-Roman";
+		font-size: 16px;
+		text-transform: uppercase;
+		line-height: 1;
+	}
+	
+	h4 {
+		font-family: "Baskerville";
+		font-size: 12px;
+		text-transform: uppercase;
+		line-height: 1;
+	}
+	
+	li {
+		font-family: "Baskerville";
+		font-size: 13px;
+		line-height: 1;
+		padding: 0px;
+	}
+	
+	.place-time {
+		padding: 0px;
+	}
+	
+	p {
+		font-family: "Perpe";
+		font-size: 13px;
+		font-style: italic;
+		line-height: 1;
+	}
+}

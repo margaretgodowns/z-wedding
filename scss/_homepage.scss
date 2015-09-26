@@ -2,6 +2,10 @@
 	
 	img {
 		margin-left: 50px;
+		max-width: 100%;
+		@media #{$small-only} { 
+			margin-left: inherit;
+		}
 	}
 	
 }

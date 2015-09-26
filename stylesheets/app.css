@@ -6323,7 +6323,11 @@ th.hide-for-touch {
   .show-for-print {
     display: none !important; } }
 .home-left-col img {
-  margin-left: 50px; }
+  margin-left: 50px;
+  max-width: 100%; }
+  @media only screen and (max-width: 40em) {
+    .home-left-col img {
+      margin-left: inherit; } }
 
 .home-right-col {
   text-align: center; }
@@ -6365,6 +6369,52 @@ th.hide-for-touch {
     color: #BA9958;
     line-height: 1; }
 
+.itinerary-left-col img {
+  max-width: 100%;
+  margin-left: 62px; }
+  @media only screen and (max-width: 40em) {
+    .itinerary-left-col img {
+      margin-left: inherit; } }
+
+.itinerary-right-col {
+  text-align: center;
+  width: 60%;
+  margin-right: 25px; }
+  .itinerary-right-col #dinner-dancing {
+    float: left; }
+  @media only screen and (max-width: 40em) {
+    .itinerary-right-col {
+      margin-right: inherit; } }
+  .itinerary-right-col .line-right {
+    border-right: 1px solid #BA9958;
+    line-height: 1; }
+  .itinerary-right-col h2 {
+    font-family: "Compendium";
+    font-size: 24px;
+    line-height: 1; }
+  .itinerary-right-col h3 {
+    font-family: "TorinoModern-Roman";
+    font-size: 16px;
+    text-transform: uppercase;
+    line-height: 1; }
+  .itinerary-right-col h4 {
+    font-family: "Baskerville";
+    font-size: 12px;
+    text-transform: uppercase;
+    line-height: 1; }
+  .itinerary-right-col li {
+    font-family: "Baskerville";
+    font-size: 13px;
+    line-height: 1;
+    padding: 0px; }
+  .itinerary-right-col .place-time {
+    padding: 0px; }
+  .itinerary-right-col p {
+    font-family: "Perpe";
+    font-size: 13px;
+    font-style: italic;
+    line-height: 1; }
+
 body {
   background-size: cover;
   background-repeat: no-repeat;
@@ -6394,6 +6444,10 @@ nav {
     font-family: "TorinoModern-Roman"; }
     nav a:hover {
       color: #053F99; }
+  nav a.active-nav {
+    color: #053F99; }
+  nav img:hover {
+    opacity: .5; }
 
 .main-content {
   margin-top: 100px;
