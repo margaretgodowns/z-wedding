@@ -1,0 +1,173 @@
+@import "settings";
+@import "foundation";
+@import "compass/css3";
+
+// Or selectively include components
+// @import
+//   "foundation/components/accordion",
+//   "foundation/components/alert-boxes",
+//   "foundation/components/block-grid",
+//   "foundation/components/breadcrumbs",
+//   "foundation/components/button-groups",
+//   "foundation/components/buttons",
+//   "foundation/components/clearing",
+//   "foundation/components/dropdown",
+//   "foundation/components/dropdown-buttons",
+//   "foundation/components/flex-video",
+//   "foundation/components/forms",
+//   "foundation/components/grid",
+//   "foundation/components/inline-lists",
+//   "foundation/components/joyride",
+//   "foundation/components/keystrokes",
+//   "foundation/components/labels",
+//   "foundation/components/magellan",
+//   "foundation/components/orbit",
+//   "foundation/components/pagination",
+//   "foundation/components/panels",
+//   "foundation/components/pricing-tables",
+//   "foundation/components/progress-bars",
+//   "foundation/components/reveal",
+//   "foundation/components/side-nav",
+//   "foundation/components/split-buttons",
+//   "foundation/components/sub-nav",
+//   "foundation/components/switches",
+//   "foundation/components/tables",
+//   "foundation/components/tabs",
+//   "foundation/components/thumbs",
+//   "foundation/components/tooltips",
+//   "foundation/components/top-bar",
+//   "foundation/components/type",
+//   "foundation/components/offcanvas",
+//   "foundation/components/visibility";
+
+@font-face {
+  font-family: 'Baskerville';
+  src: url('Baskerville.eot');
+  src: url('Baskerville.eot?#iefix') format('embedded-opentype'),
+       url('Baskerville.woff2') format('woff2'),
+       url('Baskerville.woff') format('woff'),
+       url('Baskerville.ttf') format('truetype'),
+       url('Baskerville.svg#Baskerville') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Times-Roman';
+  src: url('Times-Roman.eot');
+  src: url('Times-Roman.eot?#iefix') format('embedded-opentype'),
+       url('Times-Roman.woff2') format('woff2'),
+       url('Times-Roman.woff') format('woff'),
+       url('Times-Roman.ttf') format('truetype'),
+       url('Times-Roman.svg#Times-Roman') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MinionPro-Regular';
+  src: url('MinionPro-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TrajanPro-Regular';
+  src: url('TrajanPro-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Compendium';
+  src: url('Compendium.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'BurguesScript';
+  src: url('BurguesScript.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FairfieldLH-Medium';
+  src: url('FairfieldLH-Medium');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Garamond';
+  src: url('Garamond');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NewBaslta';
+  src: url('NewBaslta');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Perpe';
+  src: url('Perpe');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Perpelta';
+  src: url('Perpelta');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TorinModRom';
+  src: url('TorinModRom');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.torin {
+	font-family: "TorinModRom";
+}
+.perpelta {
+	font-family: "Perpelta";
+}
+.perpe {
+	font-family: "Perpe";
+}
+.nb {
+	font-family: "NewBaslta";
+}
+.garamond {
+	font-family: "Garamond";
+}
+.fairfield {
+	font-family: "FairfieldLH-Medium";
+}
+.burgues {
+	font-family: "BurguesScript";
+}
+.compendium {
+	font-family: "Compendium";
+}
+.trajan {
+	font-family: "TrajanPro-Regular";
+}
+.minion {
+	font-family: "MinionPro-Regular";
+}
+.times {
+	font-family: "Times-Roman";
+}
+.baskerville {
+	font-family: "Baskerville";
+}
+
