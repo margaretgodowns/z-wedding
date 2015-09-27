@@ -6370,16 +6370,13 @@ th.hide-for-touch {
     line-height: 1; }
 
 .itinerary-left-col img {
-  max-width: 100%;
-  margin-left: 62px; }
+  max-width: 100%; }
   @media only screen and (max-width: 40em) {
     .itinerary-left-col img {
       margin-left: inherit; } }
 
 .itinerary-right-col {
-  text-align: center;
-  width: 60%;
-  margin-right: 25px; }
+  text-align: center; }
   .itinerary-right-col #dinner-dancing {
     float: left; }
   @media only screen and (max-width: 40em) {
@@ -6391,29 +6388,45 @@ th.hide-for-touch {
   .itinerary-right-col h2 {
     font-family: "Compendium";
     font-size: 24px;
-    line-height: 1; }
+    line-height: 1;
+    color: #BA9958; }
   .itinerary-right-col h3 {
     font-family: "TorinoModern-Roman";
     font-size: 16px;
     text-transform: uppercase;
-    line-height: 1; }
+    line-height: 1;
+    color: #053F99;
+    font-weight: bold; }
   .itinerary-right-col h4 {
     font-family: "Baskerville";
     font-size: 12px;
     text-transform: uppercase;
-    line-height: 1; }
+    line-height: 1;
+    color: #053F99;
+    font-weight: bold; }
   .itinerary-right-col li {
     font-family: "Baskerville";
     font-size: 13px;
     line-height: 1;
-    padding: 0px; }
-  .itinerary-right-col .place-time {
-    padding: 0px; }
+    padding: 0px;
+    color: #BA9958; }
   .itinerary-right-col p {
     font-family: "Perpe";
     font-size: 13px;
     font-style: italic;
-    line-height: 1; }
+    line-height: 1.2;
+    color: #BA9958; }
+  .itinerary-right-col .place-time {
+    font-family: "Baskerville";
+    font-style: normal;
+    margin-bottom: 1px; }
+  .itinerary-right-col .special-directions {
+    margin-bottom: 1px; }
+  .itinerary-right-col .day-section {
+    padding-bottom: 5px;
+    border-bottom: 1px solid #BA9958;
+    margin-left: 5px;
+    margin-right: 5px; }
 
 body {
   background-size: cover;
@@ -6452,7 +6465,7 @@ nav {
 .main-content {
   margin-top: 100px;
   margin-bottom: 100px;
-  width: 75%;
+  width: 80%;
   background-color: white;
   border: 7px double #BA9958;
   outline: 10px solid white; }

@@ -2,7 +2,6 @@
 	
 	img {
 		max-width: 100%;
-		margin-left: 62px;
 		@media #{$small-only} { 
 			margin-left: inherit;
 		}
@@ -11,8 +10,6 @@
 
 .itinerary-right-col {
 	text-align: center;
-	width: 60%;
-	margin-right: 25px;
 	
 	#dinner-dancing {
 	float: left;
@@ -31,6 +28,7 @@
 		font-family: "Compendium";
 		font-size: 24px;
 		line-height: 1;
+		color: #BA9958;
 	}
 	
 	h3 {
@@ -38,6 +36,8 @@
 		font-size: 16px;
 		text-transform: uppercase;
 		line-height: 1;
+		color: #053F99;
+		font-weight: bold;
 	}
 	
 	h4 {
@@ -45,6 +45,8 @@
 		font-size: 12px;
 		text-transform: uppercase;
 		line-height: 1;
+		color: #053F99;
+		font-weight: bold;
 	}
 	
 	li {
@@ -52,16 +54,32 @@
 		font-size: 13px;
 		line-height: 1;
 		padding: 0px;
-	}
-	
-	.place-time {
-		padding: 0px;
+		color: #BA9958;
 	}
 	
 	p {
 		font-family: "Perpe";
 		font-size: 13px;
 		font-style: italic;
-		line-height: 1;
+		line-height: 1.2;
+		color: #BA9958;
 	}
+	
+	.place-time {
+		font-family: "Baskerville";
+		font-style: normal;
+		margin-bottom: 1px;
+	}
+	
+	.special-directions {
+		margin-bottom: 1px;
+	}
+	
+	.day-section {
+		padding-bottom: 5px;
+		border-bottom: 1px solid #BA9958;
+		margin-left: 5px;
+		margin-right: 5px;
+	}
+	
 }
