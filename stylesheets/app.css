@@ -6428,6 +6428,20 @@ th.hide-for-touch {
     margin-left: 5px;
     margin-right: 5px; }
 
+.map-right-col {
+  text-align: center; }
+  .map-right-col img {
+    max-width: 100%; }
+  .map-right-col h2 {
+    font-size: 40px;
+    font-family: "TorinoModern-Roman";
+    color: #A18F6A;
+    text-transform: uppercase; }
+  .map-right-col h3 {
+    font-size: 22px;
+    font-family: "Compendium";
+    color: #A18F6A; }
+
 body {
   background-size: cover;
   background-repeat: no-repeat;
