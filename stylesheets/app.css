@@ -6446,11 +6446,11 @@ th.hide-for-touch {
   text-align: center; }
   .hot-spots-container h2 {
     font-family: "Compendium";
-    font-size: 24px;
+    font-size: 32px;
     color: #BA9958; }
   .hot-spots-container h3 {
     font-family: "TorinoModern-Roman";
-    font-size: 14px;
+    font-size: 18px;
     color: #053F99;
     text-transform: uppercase;
     font-weight: bold; }
@@ -6458,10 +6458,13 @@ th.hide-for-touch {
     color: #BA9958; }
   .hot-spots-container .phone-address a {
     font-family: "Baskerville";
-    font-size: 13px;
+    font-size: 17px;
     color: #BA9958; }
-  .hot-spots-container .website a {
-    color: red; }
+  .hot-spots-container .website a, .hot-spots-container p {
+    color: #BA9958;
+    font-family: "Perpe";
+    font-size: 17px;
+    font-style: italic; }
 
 body {
   background-size: cover;
@@ -6487,7 +6490,7 @@ nav {
   nav a {
     text-decoration: none;
     color: #BA9958;
-    font-size: 18px;
+    font-size: 22px;
     text-transform: uppercase;
     font-family: "TorinoModern-Roman"; }
     nav a:hover {
