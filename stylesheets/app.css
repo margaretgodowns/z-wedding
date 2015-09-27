@@ -6442,6 +6442,27 @@ th.hide-for-touch {
     font-family: "Compendium";
     color: #A18F6A; }
 
+.hot-spots-container {
+  text-align: center; }
+  .hot-spots-container h2 {
+    font-family: "Compendium";
+    font-size: 24px;
+    color: #BA9958; }
+  .hot-spots-container h3 {
+    font-family: "TorinoModern-Roman";
+    font-size: 14px;
+    color: #053F99;
+    text-transform: uppercase;
+    font-weight: bold; }
+  .hot-spots-container p {
+    color: #BA9958; }
+  .hot-spots-container .phone-address a {
+    font-family: "Baskerville";
+    font-size: 13px;
+    color: #BA9958; }
+  .hot-spots-container .website a {
+    color: red; }
+
 body {
   background-size: cover;
   background-repeat: no-repeat;
