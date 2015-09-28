@@ -91,6 +91,23 @@ nav {
 		opacity: .5;
 	}
 	
+	#top-logo {
+		@media #{$large-up} { 
+			display: none;
+		}
+	}
+	
+	
+	#middle-logo {
+		@media #{$small-only} { 
+			display: none;
+		}
+		
+		@media #{$medium-only} { 
+			display: none;
+		}
+	}
+	
 }
 
 .main-content {
@@ -110,6 +127,9 @@ nav {
 		li {
 			display: inline-block;
 			padding: 4px 8px;
+			@media #{$small-only} {
+				display: block;
+			}
 		}
 		
 	}

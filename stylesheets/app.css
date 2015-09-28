@@ -6583,6 +6583,15 @@ nav {
     color: #053F99; }
   nav img:hover {
     opacity: .5; }
+  @media only screen and (min-width: 64.0625em) {
+    nav #top-logo {
+      display: none; } }
+  @media only screen and (max-width: 40em) {
+    nav #middle-logo {
+      display: none; } }
+  @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
+    nav #middle-logo {
+      display: none; } }
 
 .main-content {
   margin-top: 100px;
@@ -6599,5 +6608,8 @@ nav {
     .main-content ul li {
       display: inline-block;
       padding: 4px 8px; }
+      @media only screen and (max-width: 40em) {
+        .main-content ul li {
+          display: block; } }
   .main-content .main-row {
     margin-top: 50px; }
