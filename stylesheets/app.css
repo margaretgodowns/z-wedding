@@ -6444,26 +6444,47 @@ th.hide-for-touch {
 
 .hot-spots-container {
   text-align: center; }
+  .hot-spots-container .hot-spot-col-1 {
+    padding-left: 42px; }
+    @media only screen and (max-width: 40em) {
+      .hot-spots-container .hot-spot-col-1 {
+        padding-left: none; } }
+  .hot-spots-container .hot-spot-col-4 {
+    padding-right: 42px; }
+    @media only screen and (max-width: 40em) {
+      .hot-spots-container .hot-spot-col-4 {
+        padding-right: none; } }
+  .hot-spots-container .hot-spot {
+    width: 90%;
+    margin: auto; }
   .hot-spots-container h2 {
     font-family: "Compendium";
-    font-size: 32px;
-    color: #BA9958; }
+    font-size: 24px;
+    color: #BA9958;
+    margin-bottom: 25px; }
   .hot-spots-container h3 {
     font-family: "TorinoModern-Roman";
-    font-size: 18px;
-    color: #053F99;
+    font-size: 16px;
+    color: #064293;
     text-transform: uppercase;
-    font-weight: bold; }
+    margin-bottom: 4px; }
   .hot-spots-container p {
-    color: #BA9958; }
+    color: #BA9958;
+    line-height: 1;
+    margin-bottom: 5px; }
   .hot-spots-container .phone-address a {
     font-family: "Baskerville";
-    font-size: 17px;
+    font-size: 13px;
     color: #BA9958; }
-  .hot-spots-container .website a, .hot-spots-container p {
+  .hot-spots-container .website a {
     color: #BA9958;
     font-family: "Perpe";
-    font-size: 17px;
+    font-size: 13px;
+    font-style: italic; }
+  .hot-spots-container .shopping {
+    color: #BA9958;
+    font-family: "Perpe";
+    font-size: 13px;
     font-style: italic; }
 
 body {
@@ -6490,7 +6511,7 @@ nav {
   nav a {
     text-decoration: none;
     color: #BA9958;
-    font-size: 22px;
+    font-size: 18px;
     text-transform: uppercase;
     font-family: "TorinoModern-Roman"; }
     nav a:hover {

@@ -1,34 +1,62 @@
 .hot-spots-container {
 	text-align: center;
 	
+	.hot-spot-col-1 {
+		padding-left: 42px;
+		@media #{$small-only} { 
+			padding-left: none;
+		}
+	}
+	
+	.hot-spot-col-4 {
+		padding-right: 42px;
+		@media #{$small-only} {
+			padding-right: none;
+		}
+	}
+	.hot-spot {
+		width: 90%;
+		margin: auto;
+	}
+	
 	h2 {
 		font-family: "Compendium";
-		font-size: 32px;
+		font-size: 24px;
 		color: #BA9958;
+		margin-bottom: 25px;
 	}
 	
 	h3 {
 		font-family: "TorinoModern-Roman";
-		font-size: 18px;
-		color: #053F99;
+		font-size: 16px;
+		color: #064293;
 		text-transform: uppercase;
-		font-weight: bold;
+		margin-bottom: 4px;
 	}
 	
 	p {
 		color: #BA9958;
+		line-height: 1;
+		margin-bottom: 5px;
 	}
 	
 	.phone-address a {
 		font-family: "Baskerville";
-		font-size: 17px;
+		font-size: 13px;
 		color: #BA9958;
 	}
 	
-	.website a, p {
+	.website a {
 		color: #BA9958;
 		font-family: "Perpe";
-		font-size: 17px;
+		font-size: 13px;
+		font-style: italic;
+	}
+	
+	.shopping {
+		color: #BA9958;
+		font-family: "Perpe";
+		font-size: 13px;
 		font-style: italic;
 	}
 }
