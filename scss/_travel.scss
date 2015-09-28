@@ -1,0 +1,88 @@
+.travel-left-col {
+	text-align: center;
+}
+
+.getting-to-charleston {
+	text-align: center;
+	border-bottom: 1px solid #BA9958;
+	margin: 15px;
+	padding-bottom: 15px;
+	
+	.italic {
+		font-style: italic;
+	}
+	
+	h2 {
+		font-family: "Compendium";
+		font-size: 24px;
+		color: #BA9958;
+	}
+	
+	h3 {
+		font-family: "Baskerville";
+		font-size: 12px;
+		text-transform: uppercase;
+		color: #053F99;
+		margin-bottom: 0px;
+		
+		a {
+			text-decoration: none;
+			color: #053F99;
+		}
+	}
+	
+	p {
+		font-family: "Baskerville";
+		font-size: 13px;
+		color: #BA9958;
+		margin-bottom: 0px;
+		
+		a {
+			color: #BA9958;
+		}
+		
+		span {
+			font-family: "Perpe";
+			font-size: 14px;
+			font-style: italic;
+		}
+		
+		#uber {
+			font-family: "Garamond";
+		}
+	}
+}
+
+.accommodations {
+	text-align: center;
+	margin: 15px;
+	
+	.italic {
+		font-style: italic;
+	}
+	
+	h2 {
+		font-family: "Compendium";
+		font-size: 24px;
+		color: #BA9958;
+	}
+	
+	h3 {
+		font-family: "Baskerville";
+		font-size: 12px;
+		text-transform: uppercase;
+		color: #053F99;
+		margin-bottom: 0px;
+	}
+	
+	p {
+		font-family: "Baskerville";
+		font-size: 13px;
+		color: #BA9958;
+		margin-bottom: 0px;
+		
+		a {
+			color: #BA9958;
+		}
+	}
+}

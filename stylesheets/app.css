@@ -6487,6 +6487,66 @@ th.hide-for-touch {
     font-size: 13px;
     font-style: italic; }
 
+.travel-left-col {
+  text-align: center; }
+
+.getting-to-charleston {
+  text-align: center;
+  border-bottom: 1px solid #BA9958;
+  margin: 15px;
+  padding-bottom: 15px; }
+  .getting-to-charleston .italic {
+    font-style: italic; }
+  .getting-to-charleston h2 {
+    font-family: "Compendium";
+    font-size: 24px;
+    color: #BA9958; }
+  .getting-to-charleston h3 {
+    font-family: "Baskerville";
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #053F99;
+    margin-bottom: 0px; }
+    .getting-to-charleston h3 a {
+      text-decoration: none;
+      color: #053F99; }
+  .getting-to-charleston p {
+    font-family: "Baskerville";
+    font-size: 13px;
+    color: #BA9958;
+    margin-bottom: 0px; }
+    .getting-to-charleston p a {
+      color: #BA9958; }
+    .getting-to-charleston p span {
+      font-family: "Perpe";
+      font-size: 14px;
+      font-style: italic; }
+    .getting-to-charleston p #uber {
+      font-family: "Garamond"; }
+
+.accommodations {
+  text-align: center;
+  margin: 15px; }
+  .accommodations .italic {
+    font-style: italic; }
+  .accommodations h2 {
+    font-family: "Compendium";
+    font-size: 24px;
+    color: #BA9958; }
+  .accommodations h3 {
+    font-family: "Baskerville";
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #053F99;
+    margin-bottom: 0px; }
+  .accommodations p {
+    font-family: "Baskerville";
+    font-size: 13px;
+    color: #BA9958;
+    margin-bottom: 0px; }
+    .accommodations p a {
+      color: #BA9958; }
+
 body {
   background-size: cover;
   background-repeat: no-repeat;
