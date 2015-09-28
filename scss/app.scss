@@ -48,22 +48,24 @@
 body {
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-position: center center;
+ 	background-attachment: fixed;
+// 	background-position: center center;
 	background-image: url(../images/background.jpg);
 }
 
 .bottom-border {
 	position: relative;
-	&:after {
-		content:''; 
-		margin-left: 75px;
-		width: 85%;
-		height: 1px;
-		background-color: #BA9958;
-		position:absolute; 
-		bottom:-15px;
-	}
+	@media #{$large-only} {
+		&:after {
+			content:''; 
+			margin-left: 75px;
+			width: 85%;
+			height: 1px;
+			background-color: #907346;
+			position:absolute; 
+			bottom:-15px;
+			}
+		}
 }
 
 nav {
@@ -72,7 +74,7 @@ nav {
 	
 	a {
 		text-decoration: none;
-		color: #BA9958;
+		color: #907346;
 		font-size: 18px;
 		text-transform: uppercase;
 		font-family: "TorinoModern-Roman";
@@ -94,9 +96,11 @@ nav {
 .main-content {
 	margin-top: 100px;
 	margin-bottom: 100px;
-	width: 80%;
+	width: 85%;
+	max-width: 85%;
+	padding: 25px;
 	background-color: white;
-	border: 7px double #BA9958; 
+	border: 7px double #907346; 
 	outline: 10px solid white;
 	
 		ul {

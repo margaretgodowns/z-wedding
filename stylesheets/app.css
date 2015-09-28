@@ -6322,12 +6322,8 @@ th.hide-for-touch {
 @media not print {
   .show-for-print {
     display: none !important; } }
-.home-left-col img {
-  margin-left: 50px;
-  max-width: 100%; }
-  @media only screen and (max-width: 40em) {
-    .home-left-col img {
-      margin-left: inherit; } }
+.home-left-col {
+  text-align: center; }
 
 .home-right-col {
   text-align: center; }
@@ -6345,7 +6341,7 @@ th.hide-for-touch {
     text-transform: uppercase;
     font-size: 50px;
     line-height: 1;
-    color: #BA9958; }
+    color: #907346; }
     .home-right-col h1 span {
       display: block;
       font-family: "Baskerville";
@@ -6357,7 +6353,7 @@ th.hide-for-touch {
     font-family: "Baskerville";
     font-size: 15px;
     text-transform: uppercase;
-    color: #BA9958; }
+    color: #907346; }
   .home-right-col h2 {
     font-family: "Compendium";
     font-size: 23px;
@@ -6366,14 +6362,19 @@ th.hide-for-touch {
     font-family: "Baskerville";
     font-size: 18px;
     font-style: italic;
-    color: #BA9958;
+    color: #907346;
     line-height: 1; }
 
-.itinerary-left-col img {
-  max-width: 100%; }
-  @media only screen and (max-width: 40em) {
-    .itinerary-left-col img {
-      margin-left: inherit; } }
+.itinerary-left-col {
+  text-align: center;
+  /*
+  	img {
+  		max-width: 100%;
+  		@media only screen and (max-width: 40em) { 
+  			margin-left: inherit;
+  		}
+  	}
+  */ }
 
 .itinerary-right-col {
   text-align: center; }
@@ -6382,21 +6383,23 @@ th.hide-for-touch {
   @media only screen and (max-width: 40em) {
     .itinerary-right-col {
       margin-right: inherit; } }
-  .itinerary-right-col .line-right {
-    border-right: 1px solid #BA9958;
-    line-height: 1; }
+  @media only screen and (min-width: 64.0625em) and (max-width: 90em) {
+    .itinerary-right-col .line-right {
+      border-right: 1px solid #907346;
+      line-height: 1; } }
   .itinerary-right-col h2 {
     font-family: "Compendium";
     font-size: 24px;
     line-height: 1;
-    color: #BA9958; }
+    color: #907346; }
   .itinerary-right-col h3 {
     font-family: "TorinoModern-Roman";
     font-size: 16px;
     text-transform: uppercase;
-    line-height: 1;
+    line-height: 1.4;
     color: #053F99;
-    font-weight: bold; }
+    font-weight: bold;
+    margin-top: 10px; }
   .itinerary-right-col h4 {
     font-family: "Baskerville";
     font-size: 12px;
@@ -6409,22 +6412,22 @@ th.hide-for-touch {
     font-size: 13px;
     line-height: 1;
     padding: 0px;
-    color: #BA9958; }
+    color: #907346; }
   .itinerary-right-col p {
     font-family: "Perpe";
     font-size: 13px;
     font-style: italic;
-    line-height: 1.2;
-    color: #BA9958; }
+    line-height: 1.4;
+    color: #907346; }
   .itinerary-right-col .place-time {
     font-family: "Baskerville";
     font-style: normal;
-    margin-bottom: 1px; }
+    margin-bottom: 1.4px; }
   .itinerary-right-col .special-directions {
     margin-bottom: 1px; }
   .itinerary-right-col .day-section {
     padding-bottom: 5px;
-    border-bottom: 1px solid #BA9958;
+    border-bottom: 1px solid #907346;
     margin-left: 5px;
     margin-right: 5px; }
 
@@ -6460,7 +6463,7 @@ th.hide-for-touch {
   .hot-spots-container h2 {
     font-family: "Compendium";
     font-size: 24px;
-    color: #BA9958;
+    color: #907346;
     margin-bottom: 25px; }
   .hot-spots-container h3 {
     font-family: "TorinoModern-Roman";
@@ -6469,20 +6472,20 @@ th.hide-for-touch {
     text-transform: uppercase;
     margin-bottom: 4px; }
   .hot-spots-container p {
-    color: #BA9958;
+    color: #907346;
     line-height: 1;
     margin-bottom: 5px; }
   .hot-spots-container .phone-address a {
     font-family: "Baskerville";
     font-size: 13px;
-    color: #BA9958; }
+    color: #907346; }
   .hot-spots-container .website a {
-    color: #BA9958;
+    color: #907346;
     font-family: "Perpe";
     font-size: 13px;
     font-style: italic; }
   .hot-spots-container .shopping {
-    color: #BA9958;
+    color: #907346;
     font-family: "Perpe";
     font-size: 13px;
     font-style: italic; }
@@ -6492,7 +6495,7 @@ th.hide-for-touch {
 
 .getting-to-charleston {
   text-align: center;
-  border-bottom: 1px solid #BA9958;
+  border-bottom: 1px solid #907346;
   margin: 15px;
   padding-bottom: 15px; }
   .getting-to-charleston .italic {
@@ -6500,7 +6503,7 @@ th.hide-for-touch {
   .getting-to-charleston h2 {
     font-family: "Compendium";
     font-size: 24px;
-    color: #BA9958; }
+    color: #907346; }
   .getting-to-charleston h3 {
     font-family: "Baskerville";
     font-size: 12px;
@@ -6513,10 +6516,10 @@ th.hide-for-touch {
   .getting-to-charleston p {
     font-family: "Baskerville";
     font-size: 13px;
-    color: #BA9958;
+    color: #907346;
     margin-bottom: 0px; }
     .getting-to-charleston p a {
-      color: #BA9958; }
+      color: #907346; }
     .getting-to-charleston p span {
       font-family: "Perpe";
       font-size: 14px;
@@ -6532,7 +6535,7 @@ th.hide-for-touch {
   .accommodations h2 {
     font-family: "Compendium";
     font-size: 24px;
-    color: #BA9958; }
+    color: #907346; }
   .accommodations h3 {
     font-family: "Baskerville";
     font-size: 12px;
@@ -6542,35 +6545,35 @@ th.hide-for-touch {
   .accommodations p {
     font-family: "Baskerville";
     font-size: 13px;
-    color: #BA9958;
+    color: #907346;
     margin-bottom: 0px; }
     .accommodations p a {
-      color: #BA9958; }
+      color: #907346; }
 
 body {
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: center center;
   background-image: url(../images/background.jpg); }
 
 .bottom-border {
   position: relative; }
-  .bottom-border:after {
-    content: '';
-    margin-left: 75px;
-    width: 85%;
-    height: 1px;
-    background-color: #BA9958;
-    position: absolute;
-    bottom: -15px; }
+  @media only screen and (min-width: 64.0625em) and (max-width: 90em) {
+    .bottom-border:after {
+      content: '';
+      margin-left: 75px;
+      width: 85%;
+      height: 1px;
+      background-color: #907346;
+      position: absolute;
+      bottom: -15px; } }
 
 nav {
   text-align: center;
   margin-top: 10px; }
   nav a {
     text-decoration: none;
-    color: #BA9958;
+    color: #907346;
     font-size: 18px;
     text-transform: uppercase;
     font-family: "TorinoModern-Roman"; }
@@ -6584,9 +6587,11 @@ nav {
 .main-content {
   margin-top: 100px;
   margin-bottom: 100px;
-  width: 80%;
+  width: 85%;
+  max-width: 85%;
+  padding: 25px;
   background-color: white;
-  border: 7px double #BA9958;
+  border: 7px double #907346;
   outline: 10px solid white; }
   .main-content ul {
     list-style-type: none;

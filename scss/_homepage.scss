@@ -1,13 +1,5 @@
 .home-left-col {
-	
-	img {
-		margin-left: 50px;
-		max-width: 100%;
-		@media #{$small-only} { 
-			margin-left: inherit;
-		}
-	}
-	
+	text-align: center;
 }
 
 .home-right-col {
@@ -31,7 +23,7 @@
 		text-transform: uppercase;
 		font-size: 50px;
 		line-height: 1;
-		color: #BA9958;
+		color: #907346;
 		
 		span {
 			display: block;
@@ -47,7 +39,7 @@
 		font-family: "Baskerville";
 		font-size: 15px;
 		text-transform: uppercase;
-		color: #BA9958;
+		color: #907346;
 	}
 	
 	h2 {
@@ -60,7 +52,7 @@
 		font-family: "Baskerville";
 		font-size: 18px;
 		font-style: italic;
-		color: #BA9958;
+		color: #907346;
 		line-height: 1;
 	}
 }
