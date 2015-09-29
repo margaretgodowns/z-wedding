@@ -1,0 +1,51 @@
+.contact-numbers {
+	width: 80%;
+}
+
+.contact {
+	text-align: center;
+	
+	h2 {
+		font-family: "Compendium";
+		font-size: 24px;
+		color: #907346;
+		line-height: 1;
+		margin-top: 25px;
+	}
+	
+	h3 {
+		font-family: "TorinoModern-Roman";
+		font-size: 16px;
+		color: #053F99;
+		text-transform: uppercase;
+		line-height: 1;
+	}
+	
+	p {
+		line-height: 1;
+		margin-bottom: 1px;
+	}
+	
+	.title {
+		font-family: "Baskerville";
+		font-size: 12px;
+		color: #907346;
+		text-transform: uppercase;
+	}
+	
+	#MOG {
+		letter-spacing: -1px;
+	}
+	
+	.phone-number a {
+		font-family: "Baskerville";
+		font-size: 13px;
+		color: #907346;
+	}
+	
+	.email a {
+		font-family: "Garamond";
+		font-size: 13px;
+		color: #907346; 
+	}
+}

@@ -6550,6 +6550,67 @@ th.hide-for-touch {
     .accommodations p a {
       color: #907346; }
 
+.registery-left-col {
+  text-align: center; }
+
+.registery-middle-col {
+  text-align: center; }
+  .registery-middle-col .registery-info {
+    margin-top: 25px;
+    margin-bottom: 25px; }
+    @media only screen and (min-width: 64.0625em) {
+      .registery-middle-col .registery-info {
+        margin-top: 38%;
+        margin-bottom: inherit; } }
+  .registery-middle-col h2 {
+    font-family: "Compendium";
+    font-size: 24px;
+    color: #907346; }
+  .registery-middle-col h3 a {
+    font-family: "Baskerville";
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #053F99; }
+
+.registery-right-col {
+  text-align: center; }
+
+.contact-numbers {
+  width: 80%; }
+
+.contact {
+  text-align: center; }
+  .contact h2 {
+    font-family: "Compendium";
+    font-size: 24px;
+    color: #907346;
+    line-height: 1;
+    margin-top: 25px; }
+  .contact h3 {
+    font-family: "TorinoModern-Roman";
+    font-size: 16px;
+    color: #053F99;
+    text-transform: uppercase;
+    line-height: 1; }
+  .contact p {
+    line-height: 1;
+    margin-bottom: 1px; }
+  .contact .title {
+    font-family: "Baskerville";
+    font-size: 12px;
+    color: #907346;
+    text-transform: uppercase; }
+  .contact #MOG {
+    letter-spacing: -1px; }
+  .contact .phone-number a {
+    font-family: "Baskerville";
+    font-size: 13px;
+    color: #907346; }
+  .contact .email a {
+    font-family: "Garamond";
+    font-size: 13px;
+    color: #907346; }
+
 body {
   background-size: cover;
   background-repeat: no-repeat;

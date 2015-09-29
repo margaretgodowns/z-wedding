@@ -1,0 +1,36 @@
+.registery-left-col {
+	text-align: center;
+	
+}
+
+.registery-middle-col {
+	text-align: center;
+	
+	
+	.registery-info {
+		margin-top: 25px;
+		margin-bottom: 25px;
+		
+		@media #{$large-up} {
+			margin-top: 38%;
+			margin-bottom: inherit;		
+		}
+	}
+	
+	h2 {
+		font-family: "Compendium";
+		font-size: 24px;
+		color: #907346;
+	}
+	
+	h3 a {
+		font-family: "Baskerville";
+		font-size: 18px;
+		text-transform: uppercase;
+		color: #053F99;
+	}
+}
+
+.registery-right-col {
+	text-align: center;
+}
