@@ -6226,6 +6226,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/images\/background-higher.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.62693e+07,
+		"inputAbbreviatedPath": "\/images\/background-higher.jpg",
+		"outputAbbreviatedPath": "\/images\/background-higher.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/background.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
