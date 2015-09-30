@@ -6461,6 +6461,8 @@ th.hide-for-touch {
     color: #044099;
     text-transform: uppercase;
     margin-bottom: 4px; }
+  .hot-spots-container .bests {
+    margin-bottom: 10px; }
   .hot-spots-container p {
     color: #b5985a;
     line-height: 1;
@@ -6478,7 +6480,8 @@ th.hide-for-touch {
     color: #b5985a;
     font-family: "Perpe";
     font-size: 13px;
-    font-style: italic; }
+    font-style: italic;
+    line-height: 1.4; }
 
 .travel-left-col {
   text-align: center; }
