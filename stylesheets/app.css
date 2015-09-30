@@ -6410,7 +6410,8 @@ th.hide-for-touch {
     font-size: 13px;
     font-style: italic;
     line-height: 1.4;
-    color: #b5985a; }
+    color: #b5985a;
+    margin-bottom: 1px; }
   .itinerary-right-col .place-time {
     font-family: "Baskerville";
     font-style: normal;

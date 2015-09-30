@@ -6281,6 +6281,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/french-heugonot.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.53525e+06,
+		"inputAbbreviatedPath": "\/images\/french-heugonot.jpg",
+		"outputAbbreviatedPath": "\/images\/french-heugonot.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/heugonot.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
