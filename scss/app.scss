@@ -47,12 +47,16 @@
 //   "foundation/components/offcanvas",
 //   "foundation/components/visibility";
 
-body {
+.low-background {
 	background-size: cover;
-	background-repeat: no-repeat;
- 	background-attachment: fixed;
-// 	background-position: center center;
-	background-image: url(../images/background.jpg);
+	background-repeat: repeat-y;
+	background-image: url('../images/hi-res-background.jpg');
+}
+
+.large-background {
+	background-size: cover;
+	background-repeat: repeat-y;
+    background-image: url('../images/hi-res-background.jpg');
 }
 
 .bottom-border {
