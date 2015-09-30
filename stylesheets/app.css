@@ -6353,11 +6353,11 @@ th.hide-for-touch {
     font-family: "Baskerville";
     font-size: 15px;
     text-transform: uppercase;
-    color: #b5985a; }
+    color: #044099; }
   .home-right-col h2 {
     font-family: "Compendium";
     font-size: 23px;
-    color: #053F99; }
+    color: #b5985a; }
   .home-right-col p {
     font-family: "Baskerville";
     font-size: 18px;
@@ -6602,6 +6602,109 @@ th.hide-for-touch {
     font-family: "Garamond";
     font-size: 13px;
     color: #b5985a; }
+
+@font-face {
+  font-family: 'Baskerville';
+  src: url("../fonts/Baskerville.eot");
+  src: url("../fonts/Baskerville.eot?#iefix") format("embedded-opentype"), url("../fonts/Baskerville.woff2") format("woff2"), url("../fonts/Baskerville.woff") format("woff"), url("../fonts/Baskerville.ttf") format("truetype"), url("../fonts/Baskerville.svg#Baskerville") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'Times-Roman';
+  src: url("../fonts/Times-Roman.eot");
+  src: url("../fonts/Times-Roman.eot?#iefix") format("embedded-opentype"), url("../fonts/Times-Roman.woff2") format("woff2"), url("../fonts/Times-Roman.woff") format("woff"), url("../fonts/Times-Roman.ttf") format("truetype"), url("../fonts/Times-Roman.svg#Times-Roman") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'MinionPro-Regular';
+  src: url("../fonts/MinionPro-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'TrajanPro-Regular';
+  src: url("../fonts/TrajanPro-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'Compendium';
+  src: url("../fonts/Compendium.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'BurguesScript';
+  src: url("../fonts/BurguesScript.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'FairfieldLH-Medium';
+  src: url("../fonts/FairfieldLH-Medium");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'Garamond';
+  src: url("../fonts/Garamond");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'NewBaslta';
+  src: url("../fonts/NewBaslta");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'Perpe';
+  src: url("../fonts/Perpe");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'Perpelta';
+  src: url("../fonts/Perpelta");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'TorinModRom';
+  src: url("../fonts/TorinModRom");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'TorinoModern-Roman';
+  src: url("../fonts/TorinoModern-Roman");
+  font-weight: normal;
+  font-style: normal; }
+.torin {
+  font-family: "TorinModRom"; }
+
+.perpelta {
+  font-family: "Perpelta"; }
+
+.perpe {
+  font-family: "Perpe"; }
+
+.nb {
+  font-family: "NewBaslta"; }
+
+.garamond {
+  font-family: "Garamond"; }
+
+.fairfield {
+  font-family: "FairfieldLH-Medium"; }
+
+.burgues {
+  font-family: "BurguesScript"; }
+
+.compendium {
+  font-family: "Compendium"; }
+
+.trajan {
+  font-family: "TrajanPro-Regular"; }
+
+.minion {
+  font-family: "MinionPro-Regular"; }
+
+.times {
+  font-family: "Times-Roman"; }
+
+.baskerville {
+  font-family: "Baskerville"; }
 
 .low-background {
   background-size: cover;
