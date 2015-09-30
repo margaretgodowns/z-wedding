@@ -1,0 +1,1 @@
+$(document).foundation(),$(document).ready(function(){$("body").addClass("large-background").removeClass("low-background")});

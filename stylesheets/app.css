@@ -6335,13 +6335,13 @@ th.hide-for-touch {
     font-size: 18px;
     font-style: italic;
     line-height: 1;
-    color: #053F99; }
+    color: #044099; }
   .home-right-col h1 {
     font-family: "TorinoModern-Roman";
     text-transform: uppercase;
     font-size: 50px;
     line-height: 1;
-    color: #907346; }
+    color: #b5985a; }
     .home-right-col h1 span {
       display: block;
       font-family: "Baskerville";
@@ -6353,7 +6353,7 @@ th.hide-for-touch {
     font-family: "Baskerville";
     font-size: 15px;
     text-transform: uppercase;
-    color: #907346; }
+    color: #b5985a; }
   .home-right-col h2 {
     font-family: "Compendium";
     font-size: 23px;
@@ -6362,19 +6362,11 @@ th.hide-for-touch {
     font-family: "Baskerville";
     font-size: 18px;
     font-style: italic;
-    color: #907346;
+    color: #b5985a;
     line-height: 1; }
 
 .itinerary-left-col {
-  text-align: center;
-  /*
-  	img {
-  		max-width: 100%;
-  		@media only screen and (max-width: 40em) { 
-  			margin-left: inherit;
-  		}
-  	}
-  */ }
+  text-align: center; }
 
 .itinerary-right-col {
   text-align: center; }
@@ -6385,19 +6377,19 @@ th.hide-for-touch {
       margin-right: inherit; } }
   @media only screen and (min-width: 64.0625em) and (max-width: 90em) {
     .itinerary-right-col .line-right {
-      border-right: 1px solid #907346;
+      border-right: 1px solid #b5985a;
       line-height: 1; } }
   .itinerary-right-col h2 {
     font-family: "Compendium";
     font-size: 24px;
     line-height: 1;
-    color: #907346; }
+    color: #b5985a; }
   .itinerary-right-col h3 {
     font-family: "TorinoModern-Roman";
     font-size: 16px;
     text-transform: uppercase;
     line-height: 1.4;
-    color: #053F99;
+    color: #044099;
     font-weight: bold;
     margin-top: 10px; }
   .itinerary-right-col h4 {
@@ -6405,20 +6397,20 @@ th.hide-for-touch {
     font-size: 12px;
     text-transform: uppercase;
     line-height: 1;
-    color: #053F99;
+    color: #044099;
     font-weight: bold; }
   .itinerary-right-col li {
     font-family: "Baskerville";
     font-size: 13px;
     line-height: 1;
     padding: 0px;
-    color: #907346; }
+    color: #b5985a; }
   .itinerary-right-col p {
     font-family: "Perpe";
     font-size: 13px;
     font-style: italic;
     line-height: 1.4;
-    color: #907346; }
+    color: #b5985a; }
   .itinerary-right-col .place-time {
     font-family: "Baskerville";
     font-style: normal;
@@ -6427,7 +6419,7 @@ th.hide-for-touch {
     margin-bottom: 1px; }
   .itinerary-right-col .day-section {
     padding-bottom: 5px;
-    border-bottom: 1px solid #907346;
+    border-bottom: 1px solid #b5985a;
     margin-left: 5px;
     margin-right: 5px; }
 
@@ -6438,12 +6430,12 @@ th.hide-for-touch {
   .map-right-col h2 {
     font-size: 40px;
     font-family: "TorinoModern-Roman";
-    color: #A18F6A;
+    color: #b5985a;
     text-transform: uppercase; }
   .map-right-col h3 {
     font-size: 22px;
     font-family: "Compendium";
-    color: #A18F6A; }
+    color: #b5985a; }
 
 .hot-spots-container {
   text-align: center; }
@@ -6463,29 +6455,29 @@ th.hide-for-touch {
   .hot-spots-container h2 {
     font-family: "Compendium";
     font-size: 24px;
-    color: #907346;
+    color: #b5985a;
     margin-bottom: 25px; }
   .hot-spots-container h3 {
     font-family: "TorinoModern-Roman";
     font-size: 16px;
-    color: #064293;
+    color: #044099;
     text-transform: uppercase;
     margin-bottom: 4px; }
   .hot-spots-container p {
-    color: #907346;
+    color: #b5985a;
     line-height: 1;
     margin-bottom: 5px; }
   .hot-spots-container .phone-address a {
     font-family: "Baskerville";
     font-size: 13px;
-    color: #907346; }
+    color: #b5985a; }
   .hot-spots-container .website a {
-    color: #907346;
+    color: #b5985a;
     font-family: "Perpe";
     font-size: 13px;
     font-style: italic; }
   .hot-spots-container .shopping {
-    color: #907346;
+    color: #b5985a;
     font-family: "Perpe";
     font-size: 13px;
     font-style: italic; }
@@ -6495,7 +6487,7 @@ th.hide-for-touch {
 
 .getting-to-charleston {
   text-align: center;
-  border-bottom: 1px solid #907346;
+  border-bottom: 1px solid #b5985a;
   margin: 15px;
   padding-bottom: 15px; }
   .getting-to-charleston .italic {
@@ -6503,23 +6495,23 @@ th.hide-for-touch {
   .getting-to-charleston h2 {
     font-family: "Compendium";
     font-size: 24px;
-    color: #907346; }
+    color: #b5985a; }
   .getting-to-charleston h3 {
     font-family: "Baskerville";
     font-size: 12px;
     text-transform: uppercase;
-    color: #053F99;
+    color: #044099;
     margin-bottom: 0px; }
     .getting-to-charleston h3 a {
       text-decoration: none;
-      color: #053F99; }
+      color: #044099; }
   .getting-to-charleston p {
     font-family: "Baskerville";
     font-size: 13px;
-    color: #907346;
+    color: #b5985a;
     margin-bottom: 0px; }
     .getting-to-charleston p a {
-      color: #907346; }
+      color: #b5985a; }
     .getting-to-charleston p span {
       font-family: "Perpe";
       font-size: 14px;
@@ -6535,20 +6527,20 @@ th.hide-for-touch {
   .accommodations h2 {
     font-family: "Compendium";
     font-size: 24px;
-    color: #907346; }
+    color: #b5985a; }
   .accommodations h3 {
     font-family: "Baskerville";
     font-size: 12px;
     text-transform: uppercase;
-    color: #053F99;
+    color: #044099;
     margin-bottom: 0px; }
   .accommodations p {
     font-family: "Baskerville";
     font-size: 13px;
-    color: #907346;
+    color: #b5985a;
     margin-bottom: 0px; }
     .accommodations p a {
-      color: #907346; }
+      color: #b5985a; }
 
 .registery-left-col {
   text-align: center; }
@@ -6565,12 +6557,12 @@ th.hide-for-touch {
   .registery-middle-col h2 {
     font-family: "Compendium";
     font-size: 24px;
-    color: #907346; }
+    color: #b5985a; }
   .registery-middle-col h3 a {
     font-family: "Baskerville";
     font-size: 18px;
     text-transform: uppercase;
-    color: #053F99; }
+    color: #044099; }
 
 .registery-right-col {
   text-align: center; }
@@ -6583,13 +6575,13 @@ th.hide-for-touch {
   .contact h2 {
     font-family: "Compendium";
     font-size: 24px;
-    color: #907346;
+    color: #b5985a;
     line-height: 1;
     margin-top: 25px; }
   .contact h3 {
     font-family: "TorinoModern-Roman";
     font-size: 16px;
-    color: #053F99;
+    color: #044099;
     text-transform: uppercase;
     line-height: 1; }
   .contact p {
@@ -6598,24 +6590,28 @@ th.hide-for-touch {
   .contact .title {
     font-family: "Baskerville";
     font-size: 12px;
-    color: #907346;
+    color: #b5985a;
     text-transform: uppercase; }
   .contact #MOG {
     letter-spacing: -1px; }
   .contact .phone-number a {
     font-family: "Baskerville";
     font-size: 13px;
-    color: #907346; }
+    color: #b5985a; }
   .contact .email a {
     font-family: "Garamond";
     font-size: 13px;
-    color: #907346; }
+    color: #b5985a; }
 
-body {
+.low-background {
   background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-image: url(../images/background-higher.jpg); }
+  background-repeat: repeat-y;
+  background-image: url("../images/hi-res-background.jpg"); }
+
+.large-background {
+  background-size: cover;
+  background-repeat: repeat-y;
+  background-image: url("../images/hi-res-background.jpg"); }
 
 .bottom-border {
   position: relative; }
@@ -6625,7 +6621,7 @@ body {
       margin-left: 75px;
       width: 85%;
       height: 1px;
-      background-color: #907346;
+      background-color: #b5985a;
       position: absolute;
       bottom: -15px; } }
 
@@ -6634,14 +6630,14 @@ nav {
   margin-top: 10px; }
   nav a {
     text-decoration: none;
-    color: #907346;
+    color: #b5985a;
     font-size: 18px;
     text-transform: uppercase;
     font-family: "TorinoModern-Roman"; }
     nav a:hover {
-      color: #053F99; }
+      color: #044099; }
   nav a.active-nav {
-    color: #053F99; }
+    color: #044099; }
   nav img:hover {
     opacity: .5; }
   @media only screen and (min-width: 64.0625em) {
@@ -6661,7 +6657,7 @@ nav {
   max-width: 85%;
   padding: 25px;
   background-color: white;
-  border: 7px double #907346;
+  border: 7px double #b5985a;
   outline: 10px solid white; }
   .main-content ul {
     list-style-type: none;

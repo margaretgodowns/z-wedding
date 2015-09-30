@@ -6226,6 +6226,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/images\/background-cropped.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.04115e+06,
+		"inputAbbreviatedPath": "\/images\/background-cropped.jpg",
+		"outputAbbreviatedPath": "\/images\/background-cropped.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/background-higher.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -6248,6 +6259,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/church-higher.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.09798e+06,
+		"inputAbbreviatedPath": "\/images\/church-higher.jpg",
+		"outputAbbreviatedPath": "\/images\/church-higher.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/heugonot.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -6255,6 +6277,28 @@
 		"initialSize": 41980,
 		"inputAbbreviatedPath": "\/images\/heugonot.jpg",
 		"outputAbbreviatedPath": "\/images\/heugonot.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/hi-res-background.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6.32941e+06,
+		"inputAbbreviatedPath": "\/images\/hi-res-background.jpg",
+		"outputAbbreviatedPath": "\/images\/hi-res-background.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/hi-res-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17702,
+		"inputAbbreviatedPath": "\/images\/hi-res-logo.png",
+		"outputAbbreviatedPath": "\/images\/hi-res-logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -6314,6 +6358,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/med-res-background.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.08938e+07,
+		"inputAbbreviatedPath": "\/images\/med-res-background.jpg",
+		"outputAbbreviatedPath": "\/images\/med-res-background.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -6329,6 +6384,17 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/app.js",
 		"outputAbbreviatedPath": "\/js\/min\/app-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/app-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/app-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/app-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
