@@ -6617,7 +6617,7 @@ th.hide-for-touch {
   font-style: normal; }
 @font-face {
   font-family: 'MinionPro-Regular';
-  src: url("../fonts/MinionPro-Regular.ttf") format("truetype");
+  src: url("../fonts/MinionPro-Regular.ttf") format("truetype"), url("../fonts/MinionPro-Regular.otf") format("opentype");
   font-weight: normal;
   font-style: normal; }
 @font-face {
@@ -6627,12 +6627,12 @@ th.hide-for-touch {
   font-style: normal; }
 @font-face {
   font-family: 'Compendium';
-  src: url("../fonts/Compendium.ttf") format("truetype");
+  src: url("../fonts/Compendium.ttf") format("truetype"), url("../fonts/Compendium.otf") format("opentype");
   font-weight: normal;
   font-style: normal; }
 @font-face {
   font-family: 'BurguesScript';
-  src: url("../fonts/BurguesScript.ttf") format("truetype");
+  src: url("../fonts/BurguesScript.ttf") format("truetype"), url("../fonts/BurguesScript.woff") format("woff");
   font-weight: normal;
   font-style: normal; }
 @font-face {
@@ -6651,10 +6651,15 @@ th.hide-for-touch {
   font-weight: normal;
   font-style: normal; }
 @font-face {
-  font-family: 'Perpe';
-  src: url("../fonts/Perpe");
+  font-family: 'Perpetua';
+  src: url("../fonts/Perpetua.ttf");
   font-weight: normal;
   font-style: normal; }
+@font-face {
+  font-family: 'Perpetua-Italic';
+  src: url("../fonts/Perpetua-Italic.ttf");
+  font-weight: normal;
+  font-style: italic; }
 @font-face {
   font-family: 'Perpelta';
   src: url("../fonts/Perpelta");
@@ -6766,8 +6771,7 @@ nav {
     list-style-type: none;
     margin: auto; }
     .main-content ul li {
-      display: inline-block;
-      padding: 4px 8px; }
+      display: inline-block; }
       @media only screen and (max-width: 40em) {
         .main-content ul li {
           display: block; } }

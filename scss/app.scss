@@ -10,6 +10,7 @@
 @import "contact";
 @import "fonts";
 
+
 // Or selectively include components
 // @import
 //   "foundation/components/accordion",
@@ -133,7 +134,6 @@ nav {
 		
 		li {
 			display: inline-block;
-			padding: 4px 8px;
 			@media #{$small-only} {
 				display: block;
 			}
