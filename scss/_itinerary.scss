@@ -1,13 +1,5 @@
 .itinerary-left-col {
 	text-align: center;
-/*
-	img {
-		max-width: 100%;
-		@media #{$small-only} { 
-			margin-left: inherit;
-		}
-	}
-*/
 }
 
 .itinerary-right-col {
@@ -23,7 +15,7 @@
 	
 	.line-right {
 		@media #{$large-only} {
-			border-right: 1px solid #907346;
+			border-right: 1px solid rgb(181, 152, 90);
 			line-height: 1;
 		}
 	}
@@ -32,7 +24,7 @@
 		font-family: "Compendium";
 		font-size: 24px;
 		line-height: 1;
-		color: #907346;
+		color: rgb(181, 152, 90);
 	}
 	
 	h3 {
@@ -40,7 +32,7 @@
 		font-size: 16px;
 		text-transform: uppercase;
 		line-height: 1.4;
-		color: #053F99;
+		color: #044099;
 		font-weight: bold;
 		margin-top: 10px;
 	}
@@ -50,7 +42,7 @@
 		font-size: 12px;
 		text-transform: uppercase;
 		line-height: 1;
-		color: #053F99;
+		color: #044099;
 		font-weight: bold;
 	}
 	
@@ -59,7 +51,7 @@
 		font-size: 13px;
 		line-height: 1;
 		padding: 0px;
-		color: #907346;
+		color: rgb(181, 152, 90);
 	}
 	
 	p {
@@ -67,7 +59,7 @@
 		font-size: 13px;
 		font-style: italic;
 		line-height: 1.4;
-		color: #907346;
+		color: rgb(181, 152, 90);
 	}
 	
 	.place-time {
@@ -82,7 +74,7 @@
 	
 	.day-section {
 		padding-bottom: 5px;
-		border-bottom: 1px solid #907346;
+		border-bottom: 1px solid rgb(181, 152, 90);
 		margin-left: 5px;
 		margin-right: 5px;
 	}
