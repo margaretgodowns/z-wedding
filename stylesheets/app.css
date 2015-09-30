@@ -6567,38 +6567,38 @@ th.hide-for-touch {
 .registery-right-col {
   text-align: center; }
 
-.contact-numbers {
-  width: 80%; }
-
 .contact {
   text-align: center; }
-  .contact h2 {
+
+.contact-numbers {
+  width: 80%; }
+  .contact-numbers h2 {
     font-family: "Compendium";
     font-size: 24px;
     color: #b5985a;
     line-height: 1;
     margin-top: 25px; }
-  .contact h3 {
+  .contact-numbers h3 {
     font-family: "TorinoModern-Roman";
     font-size: 16px;
     color: #044099;
     text-transform: uppercase;
     line-height: 1; }
-  .contact p {
+  .contact-numbers p {
     line-height: 1;
     margin-bottom: 1px; }
-  .contact .title {
+  .contact-numbers .title {
     font-family: "Baskerville";
     font-size: 12px;
     color: #b5985a;
     text-transform: uppercase; }
-  .contact #MOG {
+  .contact-numbers #MOG {
     letter-spacing: -1px; }
-  .contact .phone-number a {
+  .contact-numbers .phone-number a {
     font-family: "Baskerville";
     font-size: 13px;
     color: #b5985a; }
-  .contact .email a {
+  .contact-numbers .email a {
     font-family: "Garamond";
     font-size: 13px;
     color: #b5985a; }
