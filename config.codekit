@@ -6270,6 +6270,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/charleston-map.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 281876,
+		"inputAbbreviatedPath": "\/images\/charleston-map.jpg",
+		"outputAbbreviatedPath": "\/images\/charleston-map.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/church-higher.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -6332,6 +6343,17 @@
 		"initialSize": 5017,
 		"inputAbbreviatedPath": "\/images\/home-flourish.jpg",
 		"outputAbbreviatedPath": "\/images\/home-flourish.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/kiawah-map.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 104567,
+		"inputAbbreviatedPath": "\/images\/kiawah-map.jpg",
+		"outputAbbreviatedPath": "\/images\/kiawah-map.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
