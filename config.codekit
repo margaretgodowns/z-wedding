@@ -6391,6 +6391,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/map-update-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 516658,
+		"inputAbbreviatedPath": "\/images\/map-update-2.jpg",
+		"outputAbbreviatedPath": "\/images\/map-update-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/map-update.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4.896e+06,
+		"inputAbbreviatedPath": "\/images\/map-update.jpg",
+		"outputAbbreviatedPath": "\/images\/map-update.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/map.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
