@@ -6506,7 +6506,8 @@ th.hide-for-touch {
     font-size: 12px;
     text-transform: uppercase;
     color: #044099;
-    margin-bottom: 0px; }
+    margin-bottom: 0px;
+    margin-top: 10px; }
     .getting-to-charleston h3 a {
       text-decoration: none;
       color: #044099; }
@@ -6538,7 +6539,8 @@ th.hide-for-touch {
     font-size: 12px;
     text-transform: uppercase;
     color: #044099;
-    margin-bottom: 0px; }
+    margin-bottom: 0px;
+    margin-top: 10px; }
   .accommodations p {
     font-family: "Baskerville";
     font-size: 13px;
