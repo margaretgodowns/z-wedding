@@ -168,6 +168,11 @@ nav {
 			@media #{$small-only} {
 				display: block;
 			}
+		
+		.last-list-item {
+			margin-right: 15px;
+			}	
+			
 		}
 		
 	}
