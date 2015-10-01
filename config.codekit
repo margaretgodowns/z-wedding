@@ -6369,6 +6369,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/hi-res-logo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12869,
+		"inputAbbreviatedPath": "\/images\/hi-res-logo.jpg",
+		"outputAbbreviatedPath": "\/images\/hi-res-logo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/hi-res-logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -6398,6 +6409,17 @@
 		"initialSize": 104567,
 		"inputAbbreviatedPath": "\/images\/kiawah-map.jpg",
 		"outputAbbreviatedPath": "\/images\/kiawah-map.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/large-map.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 353763,
+		"inputAbbreviatedPath": "\/images\/large-map.jpg",
+		"outputAbbreviatedPath": "\/images\/large-map.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

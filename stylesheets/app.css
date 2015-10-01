@@ -6383,7 +6383,8 @@ th.hide-for-touch {
     font-family: "Compendium";
     font-size: 24px;
     line-height: 1;
-    color: #b5985a; }
+    color: #b5985a;
+    letter-spacing: 1.8px; }
   .itinerary-right-col h3 {
     font-family: "TorinoModern-Roman";
     font-size: 16px;
@@ -6449,7 +6450,8 @@ th.hide-for-touch {
         padding-right: none; } }
   .hot-spots-container .hot-spot {
     width: 90%;
-    margin: auto; }
+    margin: auto;
+    margin-bottom: 20px; }
   .hot-spots-container h2 {
     font-family: "Compendium";
     font-size: 24px;
@@ -6683,6 +6685,16 @@ th.hide-for-touch {
   src: url("../fonts/TorinoModern-Roman.ttf");
   font-weight: normal;
   font-style: normal; }
+/*
+.layer-2 {
+	background-color: gold;	
+	position: absolute;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+*/
 .low-background {
   background-size: cover;
   background-repeat: repeat-y;
@@ -6731,12 +6743,26 @@ nav {
       display: none; } }
 
 .main-content {
-  margin-top: 100px;
-  margin-bottom: 100px;
+  /*
+  	margin-top: 100px;
+  	margin-bottom: 100px;
+  	width: 85%;
+  	max-width: 85%;
+  */
+  text-align: center;
   width: 85%;
   max-width: 85%;
   padding: 25px;
   background-color: white;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  /*
+  	background: 
+  		linear-gradient(135deg, transparent 10px, white 0) top left,
+  		linear-gradient(225deg, transparent 10px, white 0) top right;
+  		linear-gradient(315deg, transparent 10px, white 0) bottom left,
+  		linear-gradient(45deg, transparent 10px, white 0) bottom left;
+  */
   border: 7px double #b5985a;
   outline: 10px solid white; }
   .main-content ul {

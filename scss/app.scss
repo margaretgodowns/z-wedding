@@ -49,6 +49,17 @@
 //   "foundation/components/offcanvas",
 //   "foundation/components/visibility";
 
+/*
+.layer-2 {
+	background-color: gold;	
+	position: absolute;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+*/
+
 .low-background {
 	background-size: cover;
 	background-repeat: repeat-y;
@@ -119,14 +130,33 @@ nav {
 }
 
 .main-content {
+/*
 	margin-top: 100px;
 	margin-bottom: 100px;
 	width: 85%;
 	max-width: 85%;
+*/
+	text-align: center;
+	width: 85%;
+	max-width: 85%;
 	padding: 25px;
 	background-color: white;
+	margin-top: 100px;
+	margin-bottom: 100px;
+/*
+	background: 
+		linear-gradient(135deg, transparent 10px, white 0) top left,
+		linear-gradient(225deg, transparent 10px, white 0) top right;
+		linear-gradient(315deg, transparent 10px, white 0) bottom left,
+		linear-gradient(45deg, transparent 10px, white 0) bottom left;
+*/
+
+
+
 	border: 7px double rgb(181, 152, 90); 
 	outline: 10px solid white;
+
+
 	
 		ul {
 		list-style-type: none;
