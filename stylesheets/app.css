@@ -6369,6 +6369,9 @@ th.hide-for-touch {
 
 .itinerary-left-col {
   text-align: center; }
+  .itinerary-left-col img {
+    width: 450px;
+    height: 546px; }
 
 .itinerary-right-col {
   text-align: center; }
@@ -6393,15 +6396,13 @@ th.hide-for-touch {
     text-transform: uppercase;
     line-height: 1.4;
     color: #044099;
-    font-weight: bold;
     margin-top: 10px; }
   .itinerary-right-col h4 {
     font-family: "Baskerville";
     font-size: 12px;
     text-transform: uppercase;
     line-height: 1;
-    color: #044099;
-    font-weight: bold; }
+    color: #044099; }
   .itinerary-right-col li {
     font-family: "Baskerville";
     font-size: 13px;
@@ -6422,10 +6423,12 @@ th.hide-for-touch {
   .itinerary-right-col .special-directions {
     margin-bottom: 1px; }
   .itinerary-right-col .day-section {
-    padding-bottom: 5px;
+    padding-bottom: 15px;
     border-bottom: 1px solid #b5985a;
     margin-left: 5px;
-    margin-right: 5px; }
+    margin-right: 5px;
+    margin-bottom: 10px;
+    margin-top: 10px; }
 
 .map-right-col {
   text-align: center; }

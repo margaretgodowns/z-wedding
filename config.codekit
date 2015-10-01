@@ -6402,6 +6402,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/itinerary.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 202069,
+		"inputAbbreviatedPath": "\/images\/itinerary.jpg",
+		"outputAbbreviatedPath": "\/images\/itinerary.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/kiawah-map.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
