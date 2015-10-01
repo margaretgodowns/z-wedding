@@ -7,16 +7,18 @@
 		color: rgb(181, 152, 90);
 		line-height: 1;
 		margin-top: 25px;
+		margin-bottom: 25px;
 	}
 	
 }
 
 .contact-numbers {
-	width: 80%;
+	width: 86%;
+	margin: auto;
 	
 	h3 {
 		font-family: "TorinoModern-Roman";
-		font-size: 16px;
+		font-size: 18px;
 		color: #044099;
 		text-transform: uppercase;
 		line-height: 1;
@@ -29,7 +31,7 @@
 	
 	.title {
 		font-family: "Baskerville";
-		font-size: 12px;
+		font-size: 14px;
 		color: rgb(181, 152, 90);
 		text-transform: uppercase;
 	}
@@ -40,13 +42,13 @@
 	
 	.phone-number a {
 		font-family: "Baskerville";
-		font-size: 13px;
+		font-size: 16px;
 		color: rgb(181, 152, 90);
 	}
 	
 	.email a {
 		font-family: "Garamond";
-		font-size: 13px;
+		font-size: 16px;
 		color: rgb(181, 152, 90); 
 	}
 	

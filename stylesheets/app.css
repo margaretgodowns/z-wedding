@@ -6581,13 +6581,15 @@ th.hide-for-touch {
     font-size: 24px;
     color: #b5985a;
     line-height: 1;
-    margin-top: 25px; }
+    margin-top: 25px;
+    margin-bottom: 25px; }
 
 .contact-numbers {
-  width: 80%; }
+  width: 86%;
+  margin: auto; }
   .contact-numbers h3 {
     font-family: "TorinoModern-Roman";
-    font-size: 16px;
+    font-size: 18px;
     color: #044099;
     text-transform: uppercase;
     line-height: 1; }
@@ -6596,18 +6598,18 @@ th.hide-for-touch {
     margin-bottom: 1px; }
   .contact-numbers .title {
     font-family: "Baskerville";
-    font-size: 12px;
+    font-size: 14px;
     color: #b5985a;
     text-transform: uppercase; }
   .contact-numbers #MOG {
     letter-spacing: -1px; }
   .contact-numbers .phone-number a {
     font-family: "Baskerville";
-    font-size: 13px;
+    font-size: 16px;
     color: #b5985a; }
   .contact-numbers .email a {
     font-family: "Garamond";
-    font-size: 13px;
+    font-size: 16px;
     color: #b5985a; }
 
 @font-face {
