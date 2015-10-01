@@ -6330,6 +6330,8 @@ th.hide-for-touch {
   .home-right-col main {
     width: 90%;
     margin-left: 25px; }
+    .home-right-col main img {
+      margin-bottom: 10px; }
   .home-right-col h4 {
     font-family: "Baskerville";
     font-size: 18px;
