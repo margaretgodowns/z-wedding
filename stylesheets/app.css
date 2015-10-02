@@ -6343,7 +6343,7 @@ th.hide-for-touch {
     text-transform: uppercase;
     font-size: 50px;
     line-height: 1;
-    color: #b5985a; }
+    color: #84754e; }
     .home-right-col h1 span {
       display: block;
       font-family: "Baskerville";
@@ -6359,12 +6359,12 @@ th.hide-for-touch {
   .home-right-col h2 {
     font-family: "Compendium";
     font-size: 23px;
-    color: #b5985a; }
+    color: #84754e; }
   .home-right-col p {
     font-family: "NewBaskerville";
     font-size: 18px;
     font-style: italic;
-    color: #b5985a;
+    color: #84754e;
     line-height: 1; }
 
 .itinerary-left-col {
@@ -6382,13 +6382,13 @@ th.hide-for-touch {
       margin-right: inherit; } }
   @media only screen and (min-width: 64.0625em) and (max-width: 90em) {
     .itinerary-right-col .line-right {
-      border-right: 1px solid #b5985a;
+      border-right: 1px solid #84754e;
       line-height: 1; } }
   .itinerary-right-col h2 {
     font-family: "Compendium";
     font-size: 24px;
     line-height: 1;
-    color: #b5985a;
+    color: #84754e;
     letter-spacing: 1.8px; }
   .itinerary-right-col h3 {
     font-family: "TorinoModern-Roman";
@@ -6408,13 +6408,13 @@ th.hide-for-touch {
     font-size: 13px;
     line-height: 1;
     padding: 0px;
-    color: #b5985a; }
+    color: #84754e; }
   .itinerary-right-col p {
     font-family: "Perpe";
     font-size: 13px;
     font-style: italic;
     line-height: 1.4;
-    color: #b5985a;
+    color: #84754e;
     margin-bottom: 1px; }
   .itinerary-right-col .place-time {
     font-family: "Baskerville";
@@ -6424,7 +6424,7 @@ th.hide-for-touch {
     margin-bottom: 1px; }
   .itinerary-right-col .day-section {
     padding-bottom: 15px;
-    border-bottom: 1px solid #b5985a;
+    border-bottom: 1px solid #84754e;
     margin-left: 5px;
     margin-right: 5px;
     margin-bottom: 10px;
@@ -6460,7 +6460,7 @@ th.hide-for-touch {
   .hot-spots-container h2 {
     font-family: "Compendium";
     font-size: 24px;
-    color: #b5985a;
+    color: #84754e;
     margin-bottom: 25px; }
   .hot-spots-container h3 {
     font-family: "TorinoModern-Roman";
@@ -6471,19 +6471,19 @@ th.hide-for-touch {
   .hot-spots-container .bests {
     margin-bottom: 10px; }
   .hot-spots-container p {
-    color: #b5985a;
+    color: #84754e;
     line-height: 1;
     margin-bottom: 5px; }
   .hot-spots-container .phone-address a {
     font-family: "Baskerville";
     font-size: 13px;
-    color: #b5985a; }
+    color: #84754e; }
   .hot-spots-container .website a {
-    color: #b5985a;
+    color: #84754e;
     font-family: "Perpetua-Italic";
     font-size: 17px; }
   .hot-spots-container .shopping {
-    color: #b5985a;
+    color: #84754e;
     font-family: "Perpetua-Italic";
     font-size: 17px;
     line-height: 1.4; }
@@ -6493,14 +6493,14 @@ th.hide-for-touch {
 
 .getting-to-charleston {
   text-align: center;
-  border-bottom: 1px solid #b5985a;
+  border-bottom: 1px solid #84754e;
   padding-bottom: 15px; }
   .getting-to-charleston .italic {
     font-style: italic; }
   .getting-to-charleston h2 {
     font-family: "Compendium";
     font-size: 24px;
-    color: #b5985a; }
+    color: #84754e; }
   .getting-to-charleston h3 {
     font-family: "Baskerville";
     font-size: 12px;
@@ -6514,10 +6514,10 @@ th.hide-for-touch {
   .getting-to-charleston p {
     font-family: "Baskerville";
     font-size: 13px;
-    color: #b5985a;
+    color: #84754e;
     margin-bottom: 0px; }
     .getting-to-charleston p a {
-      color: #b5985a; }
+      color: #84754e; }
     .getting-to-charleston p span {
       font-family: "Perpetua";
       font-size: 14px;
@@ -6533,7 +6533,7 @@ th.hide-for-touch {
   .accommodations h2 {
     font-family: "Compendium";
     font-size: 24px;
-    color: #b5985a; }
+    color: #84754e; }
   .accommodations h3 {
     font-family: "Baskerville";
     font-size: 12px;
@@ -6544,10 +6544,10 @@ th.hide-for-touch {
   .accommodations p {
     font-family: "Baskerville";
     font-size: 13px;
-    color: #b5985a;
+    color: #84754e;
     margin-bottom: 0px; }
     .accommodations p a {
-      color: #b5985a; }
+      color: #84754e; }
 
 .registery-left-col {
   text-align: center; }
@@ -6564,7 +6564,7 @@ th.hide-for-touch {
   .registery-middle-col h2 {
     font-family: "Compendium";
     font-size: 24px;
-    color: #b5985a; }
+    color: #84754e; }
   .registery-middle-col h3 a {
     font-family: "Baskerville";
     font-size: 18px;
@@ -6579,7 +6579,7 @@ th.hide-for-touch {
   .contact h2 {
     font-family: "Compendium";
     font-size: 24px;
-    color: #b5985a;
+    color: #84754e;
     line-height: 1;
     margin-top: 25px;
     margin-bottom: 25px; }
@@ -6599,18 +6599,18 @@ th.hide-for-touch {
   .contact-numbers .title {
     font-family: "Baskerville";
     font-size: 14px;
-    color: #b5985a;
+    color: #84754e;
     text-transform: uppercase; }
   .contact-numbers #MOG {
     letter-spacing: -1px; }
   .contact-numbers .phone-number a {
     font-family: "Baskerville";
     font-size: 16px;
-    color: #b5985a; }
+    color: #84754e; }
   .contact-numbers .email a {
     font-family: "Garamond";
     font-size: 16px;
-    color: #b5985a; }
+    color: #84754e; }
 
 @font-face {
   font-family: 'Baskerville';
@@ -6722,7 +6722,7 @@ th.hide-for-touch {
       margin-left: 75px;
       width: 85%;
       height: 1px;
-      background-color: #b5985a;
+      background-color: #84754e;
       position: absolute;
       bottom: -15px; } }
 
@@ -6731,7 +6731,7 @@ nav {
   margin-top: 10px; }
   nav a {
     text-decoration: none;
-    color: #b5985a;
+    color: #84754e;
     font-size: 18px;
     text-transform: uppercase;
     font-family: "TorinoModern-Roman"; }
@@ -6772,7 +6772,7 @@ nav {
   		linear-gradient(315deg, transparent 10px, white 0) bottom left,
   		linear-gradient(45deg, transparent 10px, white 0) bottom left;
   */
-  border: 7px double #b5985a;
+  border: 7px double #84754e;
   outline: 10px solid white; }
   .main-content ul {
     list-style-type: none;

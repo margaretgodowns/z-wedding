@@ -21,7 +21,7 @@
 	
 	.line-right {
 		@media #{$large-only} {
-			border-right: 1px solid rgb(181, 152, 90);
+			border-right: 1px solid rgb(132, 117, 78);
 			line-height: 1;
 		}
 	}
@@ -30,7 +30,7 @@
 		font-family: "Compendium";
 		font-size: 24px;
 		line-height: 1;
-		color: rgb(181, 152, 90);
+		color: rgb(132, 117, 78);
 		letter-spacing: 1.8px;
 	}
 	
@@ -56,7 +56,7 @@
 		font-size: 13px;
 		line-height: 1;
 		padding: 0px;
-		color: rgb(181, 152, 90);
+		color: rgb(132, 117, 78);
 	}
 	
 	p {
@@ -64,7 +64,7 @@
 		font-size: 13px;
 		font-style: italic;
 		line-height: 1.4;
-		color: rgb(181, 152, 90);
+		color: rgb(132, 117, 78);
 		margin-bottom: 1px;
 	}
 	
@@ -80,7 +80,7 @@
 	
 	.day-section {
 		padding-bottom: 15px;
-		border-bottom: 1px solid rgb(181, 152, 90);
+		border-bottom: 1px solid rgb(132, 117, 78);
 		margin-left: 5px;
 		margin-right: 5px;
 		margin-bottom: 10px;
