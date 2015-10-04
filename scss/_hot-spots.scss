@@ -56,6 +56,20 @@
 		color: rgb(132, 117, 78);
 		font-family: "Perpetua-Italic";
 		font-size: 17px;
+		}
+	
+	.full-website {
+		display: block;
+		@media #{$medium-only} {
+			display: none;
+		}
+	}
+	
+	.visit-website {
+		display: none;
+		@media #{$medium-only} {
+			display: block;
+		}
 	}
 	
 	.shopping {
@@ -63,5 +77,8 @@
 		font-family: "Perpetua-Italic";
 		font-size: 17px;
 		line-height: 1.4;
+		@media #{$medium-only} {
+			line-height: 1;
+		}
 	}
 }

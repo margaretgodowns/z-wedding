@@ -6483,11 +6483,24 @@ th.hide-for-touch {
     color: #84754e;
     font-family: "Perpetua-Italic";
     font-size: 17px; }
+  .hot-spots-container .full-website {
+    display: block; }
+    @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
+      .hot-spots-container .full-website {
+        display: none; } }
+  .hot-spots-container .visit-website {
+    display: none; }
+    @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
+      .hot-spots-container .visit-website {
+        display: block; } }
   .hot-spots-container .shopping {
     color: #84754e;
     font-family: "Perpetua-Italic";
     font-size: 17px;
     line-height: 1.4; }
+    @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
+      .hot-spots-container .shopping {
+        line-height: 1; } }
 
 .travel-left-col {
   text-align: center; }
