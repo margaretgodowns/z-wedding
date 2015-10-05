@@ -6589,12 +6589,9 @@ th.hide-for-touch {
   text-align: center; }
 
 .contact {
-  text-align: center; }
-  .contact h2 {
-    font-family: "Compendium";
-    font-size: 28px;
-    color: #84754e;
-    line-height: 1;
+  text-align: center;
+  margin-top: 15px; }
+  .contact img {
     margin-top: 25px;
     margin-bottom: 25px; }
 
@@ -6655,7 +6652,7 @@ th.hide-for-touch {
   font-style: normal; }
 @font-face {
   font-family: 'Compendium';
-  src: url("../fonts/Compendium.ttf") format("truetype"), url("../fonts/Compendium.otf") format("opentype");
+  src: url("../fonts/Compendium.ttf") format("truetype");
   font-weight: normal;
   font-style: normal; }
 @font-face {

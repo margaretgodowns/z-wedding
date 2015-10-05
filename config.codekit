@@ -6314,6 +6314,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/accommodations-header.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 84025,
+		"inputAbbreviatedPath": "\/images\/accommodations-header.jpg",
+		"outputAbbreviatedPath": "\/images\/accommodations-header.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/background-cropped.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -6347,6 +6358,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/charleston-header.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27676,
+		"inputAbbreviatedPath": "\/images\/charleston-header.jpg",
+		"outputAbbreviatedPath": "\/images\/charleston-header.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/charleston-map.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -6369,6 +6391,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/contact-header.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 181075,
+		"inputAbbreviatedPath": "\/images\/contact-header.jpg",
+		"outputAbbreviatedPath": "\/images\/contact-header.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/french-heugonot.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -6376,6 +6409,17 @@
 		"initialSize": 2.53525e+06,
 		"inputAbbreviatedPath": "\/images\/french-heugonot.jpg",
 		"outputAbbreviatedPath": "\/images\/french-heugonot.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/getting-to-charleston-header.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 125501,
+		"inputAbbreviatedPath": "\/images\/getting-to-charleston-header.jpg",
+		"outputAbbreviatedPath": "\/images\/getting-to-charleston-header.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -6442,6 +6486,17 @@
 		"initialSize": 5017,
 		"inputAbbreviatedPath": "\/images\/home-flourish.jpg",
 		"outputAbbreviatedPath": "\/images\/home-flourish.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/hot-spots-header.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 135624,
+		"inputAbbreviatedPath": "\/images\/hot-spots-header.jpg",
+		"outputAbbreviatedPath": "\/images\/hot-spots-header.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -6552,6 +6607,28 @@
 		"initialSize": 1.08938e+07,
 		"inputAbbreviatedPath": "\/images\/med-res-background.jpg",
 		"outputAbbreviatedPath": "\/images\/med-res-background.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/registered-header.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 85544,
+		"inputAbbreviatedPath": "\/images\/registered-header.jpg",
+		"outputAbbreviatedPath": "\/images\/registered-header.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/wedding-weekend-header.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 160960,
+		"inputAbbreviatedPath": "\/images\/wedding-weekend-header.jpg",
+		"outputAbbreviatedPath": "\/images\/wedding-weekend-header.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
